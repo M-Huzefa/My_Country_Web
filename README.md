@@ -1,2 +1,2 @@
 # My-Country-Web
-CureMD Assignment
+CureMD Home Assignment
